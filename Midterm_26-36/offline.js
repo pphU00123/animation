@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1735913865,
+	"version": 1735914512,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -7,8 +7,8 @@
 		"offlineClient.js",
 		"images/bg-sheet0.png",
 		"images/player-sheet0.png",
-		"images/coin-sheet0.png",
-		"images/coinbox-sheet0.png",
+		"images/throwingstar-sheet0.png",
+		"images/woodbox-sheet0.png",
 		"images/ground.png",
 		"images/sprite-sheet0.png",
 		"icon-16.png",
